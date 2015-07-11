@@ -1,0 +1,5 @@
+Sound Manager is the first and best app for controlling the volumes on your Android device, automatically, any time you'd like.
+
+Sound Manager exposes Android's sound & volume controls. It provides a quick way to change Ring Mode or Vibration settings, or mute and unmute your phone. You can also add shortcuts to these settings on your home screen.
+
+For each volume setting you can also schedule the volume to change at any time on any day of the week. For example, you might want your Notifications to be silent at night but keep your Ringer volume up in case you get an important call. Or you want to turn your phone down during a meeting or a work day, but not worry that you'll forget to turn it back up after. You can schedule these volume changes whenever you'd like. Great for anybody, but especially for those driven by a schedule.
